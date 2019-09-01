@@ -1,0 +1,34 @@
+Software obrigatório levar instalado:
+Anaconda 3
+https://www.anaconda.com/distribution/
+PS.: Qualquer dúvida ou problema de instalação eu posso ajudar
+
+Python é uma linguagem dinâmica de alto nível. 
+Pode ser aplicada em diferentes áreas, Web, mobile, machine learning, deep learning, computação científica.
+Tendo grande adesão a nível mundial ela é a linguagem básica usada em vários cursos pelo mundo para aprendizado de programação.
+Universidades brasileiras como UFF, Unicamp, UFRGS, entre outras, estão aderindo Python para ensino de cálculo numérico.
+Neste minicurso será abordado o básico da linguagem, com foco em cálculo numérico.
+## Tópicos a serem abordados no Minicurso de Introdução à Python 3
+    ### Parte 1
+        Introdução
+        Instalação do software 
+        Por que usar python?
+        Princípios
+        Filosofia do python
+        Sintaxe básica
+        Tipos de variáveis
+        Saídas e entrada de dados
+    ### Parte 2
+        Operadores matemáticos
+        Separação de blocos de códigos
+        Condicionais
+        Laços
+        Importação de módulos
+        Operações básicas com matrizes
+    ### Parte 3
+        Polinômios
+        Integração e Derivação de polinômios
+        Matemática simbólica
+            Zeros de polinômios
+        Visualização de dados
+            Gráficos
